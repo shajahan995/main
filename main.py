@@ -18,9 +18,9 @@ ARRAYWIDTH = 16
 ARRAYHEIGHT = 14
 
 
-RIGHT = 'right'
-LEFT  = 'left'
-BLANK = '.'
+RIGHT = 'd'
+LEFT  = 'a'
+BLANK = '0'
 
 ## COLORS ##
 
