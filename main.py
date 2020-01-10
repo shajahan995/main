@@ -5,7 +5,7 @@ from pygame.locals import *
 ## Constants, yo ##
 
 FPS          = 120
-WINDOWWIDTH  = 640
+WINDOWWIDTH  = 690
 WINDOWHEIGHT = 480
 TEXTHEIGHT   = 20
 BUBBLERADIUS = 20
